@@ -29,7 +29,7 @@ None
 
 Ajakaiye Afeso - [@slimake](https://twitter.com/slimake) - marcusitovie@gmail.com
 
-Project Link: https://slimake.github.io//
+Project Link: https://github.com/Slimake/Display-text
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
