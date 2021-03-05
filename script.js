@@ -16,7 +16,7 @@
 	});
 
 	input.addEventListener("keydown", function(e) {
-		if (e.keyCode === 13) {
+		if (e.which === 13) {
 			show();
 		}
 	});
