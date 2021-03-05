@@ -7,6 +7,7 @@
 		if (input.value) {
 			displayText.classList.add("display");
 			displayText.textContent = input.value;
+			input.value = "";
 		}
 	});
 })()
