@@ -23,7 +23,7 @@ body {
 }
 
 .display {
-	width: 40%;
+	width: 50%;
 	padding: 1.25rem 1.875rem;
 	text-align: center;
 	background-color: #ffeed0;
@@ -58,4 +58,17 @@ button {
 
 button:focus {
 	box-shadow: 0px 0px 5px #000;
+}
+
+/* Media Query */
+@media (max-width: 1023px) { /* 1023px */
+	.display {
+		width: 60%;
+	}
+}
+
+@media (max-width: 540px) {  /* 540px */ 
+	.display {
+		width: 90%;
+	}
 }
